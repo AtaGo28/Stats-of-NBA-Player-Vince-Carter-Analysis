@@ -15,7 +15,7 @@ Scatterplot Chart General Overwiew
 
 
 
-# Total Points per Team Dataframe
+# Total Points per Team Data
 
 ![image](https://github.com/AtaGo28/Stats-of-NBA-Player-Vince-Carter-Analysis/assets/94257930/a49a7144-c14c-4a76-9034-605d275d2405)
 
