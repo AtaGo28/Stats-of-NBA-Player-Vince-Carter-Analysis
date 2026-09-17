@@ -1,3 +1,40 @@
+# Vince Carter — NBA Career Statistics Analysis (1998–2020)
+
+## Overview
+A longitudinal data analysis of Vince Carter's 22-season NBA career — one of the longest
+in league history. The goal was to understand how his scoring output evolved over time and
+across the 8 different franchises he played for.
+
+## Tools & Libraries
+Python · Pandas · Matplotlib
+
+## Key Questions
+- How did Carter's total and per-game scoring change across his career?
+- Which team saw his best scoring performance?
+- How does games played per team relate to scoring efficiency?
+
+## Key Findings
+- **Toronto Raptors** was his most productive period by total points,
+  where he also played the most games
+- **Per-game averages declined** progressively through his career,
+  consistent with natural athletic aging — but remained competitive
+  well into his late 30s
+- The combined bar + line chart (total games played vs. best average
+  per team) reveals how Carter adapted his role from scorer to veteran
+  contributor across franchises
+- Teams are ordered chronologically, making the career arc readable
+  as a timeline
+
+## Visualisations
+- Scatter plot: general career overview
+- Horizontal bar chart: total points by team
+- Vertical bar chart: average points per game by year and team
+- Best average points per game by team
+- Average of averages per team (efficiency line)
+- Combined multi-metric chart (total games + scoring averages)
+
+
+
 You can see the data and visualizations that contains NBA player Vince Carter's total number of games played, average scores and total scores per year and per team. Therefore you can make a general observation about his performance by years and per team.
 
 
